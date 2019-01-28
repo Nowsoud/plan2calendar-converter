@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:KrDZIs3012Io
+X-WR-CALNAME:KrDZIs3012Io
+BEGIN:VEVENT
+UID:q6ld@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214630Z
+DTSTART:20190129T103000Z
+DTEND:20190129T120000Z
+SUMMARY:egzamin undefined
+LOCATION:Paw.D sala 5
+ORGANIZER;CN="dr inż. Tadeusz Wilusz ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=1&id=11
+ 6071&xml
+END:VEVENT
+END:VCALENDAR

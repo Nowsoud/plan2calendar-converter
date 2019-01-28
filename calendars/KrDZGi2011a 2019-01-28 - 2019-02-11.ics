@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:KrDZGi2011a
+X-WR-CALNAME:KrDZGi2011a
+BEGIN:VEVENT
+UID:huai@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214846Z
+DTSTART:20190129T084500Z
+DTEND:20190129T101500Z
+SUMMARY:egzamin undefined
+LOCATION:Paw.C sala F
+ORGANIZER;CN="dr Ewa Soja ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=1&id=10
+ 8591&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:irv4@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214846Z
+DTSTART:20190130T140000Z
+DTEND:20190130T153000Z
+SUMMARY:egzamin undefined
+LOCATION:Paw.C sala D
+ORGANIZER;CN="dr Michał Wiśniewski ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=1&id=10
+ 8591&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:2nb0@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214846Z
+DTSTART:20190207T103000Z
+DTEND:20190207T120000Z
+SUMMARY:egzamin Prawo budowlane
+LOCATION:Paw.G 12
+ORGANIZER;CN="dr Paweł Filipek ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=1&id=10
+ 8591&xml
+END:VEVENT
+END:VCALENDAR

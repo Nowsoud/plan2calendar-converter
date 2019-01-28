@@ -1,0 +1,1876 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:KrDZIs3012Io
+X-WR-CALNAME:KrDZIs3012Io
+BEGIN:VEVENT
+UID:2xzf@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180219T135000Z
+DTEND:20180219T152500Z
+SUMMARY:wykład do wyboru Etykieta menedżera
+LOCATION:Paw.F 106
+ORGANIZER;CN="dr Anna Pietruszka-Ortyl ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:5xpo@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180219T153000Z
+DTEND:20180219T170500Z
+SUMMARY:wykład Programowanie systemów rozproszonych
+LOCATION:Paw.F 717
+ORGANIZER;CN="prof. UEK Paweł Wołoszyn ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:0jne@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180219T171000Z
+DTEND:20180219T175500Z
+SUMMARY:wykład do wyboru Programowanie aplikacji webowych SPA
+LOCATION:Bibl. 442
+ORGANIZER;CN="dr Janusz Stal ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:2v44@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180220T102000Z
+DTEND:20180220T120000Z
+SUMMARY:ćwiczenia Programowanie systemów mobilnych
+LOCATION:Paw.A 122 lab. Win7\,Office2010
+ORGANIZER;CN="mgr Przemysław Płyś ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:a5xp@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180220T135000Z
+DTEND:20180220T152500Z
+SUMMARY:wykład do wyboru Techniki rozwiązywania problemów informatycznych
+LOCATION:Paw.D sala 3
+ORGANIZER;CN="prof. UEK Paweł Wołoszyn ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:hrn9@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180221T083500Z
+DTEND:20180221T101500Z
+SUMMARY:wykład Systemy zintegrowane
+LOCATION:Bibl. 442
+ORGANIZER;CN="prof.UEK dr hab. Piotr Soja ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:b4od@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180221T102000Z
+DTEND:20180221T120000Z
+SUMMARY:ćwiczenia Programowanie systemów rozproszonych
+LOCATION:Paw.A 014 lab. Win8\, Office16
+ORGANIZER;CN="mgr Przemysław Płyś ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:3llw@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180221T120500Z
+DTEND:20180221T134500Z
+SUMMARY:ćwiczenia Systemy zintegrowane
+LOCATION:Paw.A 013 lab. Vista\,Office10
+ORGANIZER;CN="prof.UEK dr hab. Piotr Soja ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:hmzr@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180221T153000Z
+DTEND:20180221T170500Z
+SUMMARY:wykład do wyboru Psychologia
+LOCATION:Paw.S sala 3
+ORGANIZER;CN="dr Mariusz Makowski ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:xphu@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180222T171000Z
+DTEND:20180222T184500Z
+SUMMARY:wykład do wyboru System informacji marketingowej w przedsiębiorstw
+ ie
+LOCATION:Paw.B 151
+ORGANIZER;CN="dr Marek Rawski ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:j2ri@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180223T065000Z
+DTEND:20180223T101500Z
+SUMMARY:wykład do wyboru Comarch Business Intelligence w praktyce zarządza
+ nia
+LOCATION:Paw.A 301a lab.win10 Office16
+ORGANIZER;CN="prof.UEK dr hab. Janusz Nesterak ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:22e2@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180223T102000Z
+DTEND:20180223T134500Z
+SUMMARY:wykład do wyboru Comarch Business Intelligence w praktyce zarządza
+ nia
+LOCATION:Paw.A 301a lab.win10 Office16
+ORGANIZER;CN="prof.UEK dr hab. Janusz Nesterak ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:9qtt@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180226T120500Z
+DTEND:20180226T134500Z
+SUMMARY:wykład Programowanie systemów mobilnych
+LOCATION:Bibl. 442
+ORGANIZER;CN="dr Janusz Stal ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:l4v6@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180226T135000Z
+DTEND:20180226T152500Z
+SUMMARY:wykład do wyboru Etykieta menedżera
+LOCATION:Paw.F 106
+ORGANIZER;CN="dr Anna Pietruszka-Ortyl ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:1uen@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180226T153000Z
+DTEND:20180226T170500Z
+SUMMARY:wykład Programowanie systemów rozproszonych
+LOCATION:Paw.F 717
+ORGANIZER;CN="prof. UEK Paweł Wołoszyn ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:ihmh@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180226T171000Z
+DTEND:20180226T184500Z
+SUMMARY:wykład do wyboru Programowanie aplikacji webowych SPA
+LOCATION:Bibl. 442
+ORGANIZER;CN="dr Janusz Stal ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:9shw@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180227T102000Z
+DTEND:20180227T120000Z
+SUMMARY:ćwiczenia Programowanie systemów mobilnych
+LOCATION:Paw.A 122 lab. Win7\,Office2010
+ORGANIZER;CN="mgr Przemysław Płyś ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:ki5u@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180227T135000Z
+DTEND:20180227T152500Z
+SUMMARY:wykład do wyboru Techniki rozwiązywania problemów informatycznych
+LOCATION:Paw.D sala 3
+ORGANIZER;CN="prof. UEK Paweł Wołoszyn ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:om3f@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180228T083500Z
+DTEND:20180228T101500Z
+SUMMARY:wykład Systemy zintegrowane
+LOCATION:Bibl. 442
+ORGANIZER;CN="prof.UEK dr hab. Piotr Soja ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:p2oj@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180228T102000Z
+DTEND:20180228T120000Z
+SUMMARY:ćwiczenia Programowanie systemów rozproszonych
+LOCATION:Paw.A 014 lab. Win8\, Office16
+ORGANIZER;CN="mgr Przemysław Płyś ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:0bqi@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180228T120500Z
+DTEND:20180228T134500Z
+SUMMARY:ćwiczenia Systemy zintegrowane
+LOCATION:Paw.A 013 lab. Vista\,Office10
+ORGANIZER;CN="prof.UEK dr hab. Piotr Soja ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:a6i9@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180228T153000Z
+DTEND:20180228T170500Z
+SUMMARY:wykład do wyboru Psychologia
+LOCATION:Paw.S sala 3
+ORGANIZER;CN="dr Mariusz Makowski ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:vdgu@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180301T171000Z
+DTEND:20180301T184500Z
+SUMMARY:wykład do wyboru System informacji marketingowej w przedsiębiorstw
+ ie
+LOCATION:Paw.B 151
+ORGANIZER;CN="dr Marek Rawski ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:weos@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180302T065000Z
+DTEND:20180302T101500Z
+SUMMARY:wykład do wyboru Comarch Business Intelligence w praktyce zarządza
+ nia
+LOCATION:Paw.A 301a lab.win10 Office16
+ORGANIZER;CN="prof.UEK dr hab. Janusz Nesterak ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:nioc@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180302T102000Z
+DTEND:20180302T134500Z
+SUMMARY:wykład do wyboru Comarch Business Intelligence w praktyce zarządza
+ nia
+LOCATION:Paw.A 301a lab.win10 Office16
+ORGANIZER;CN="prof.UEK dr hab. Janusz Nesterak ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:2358@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180305T135000Z
+DTEND:20180305T152500Z
+SUMMARY:wykład do wyboru Etykieta menedżera
+LOCATION:Paw.F 106
+ORGANIZER;CN="dr Anna Pietruszka-Ortyl ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:0yfo@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180305T153000Z
+DTEND:20180305T170500Z
+SUMMARY:wykład Programowanie systemów rozproszonych
+LOCATION:Paw.F 717
+ORGANIZER;CN="prof. UEK Paweł Wołoszyn ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:hbjs@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180305T171000Z
+DTEND:20180305T184500Z
+SUMMARY:wykład do wyboru Programowanie aplikacji webowych SPA
+LOCATION:Bibl. 442
+ORGANIZER;CN="dr Janusz Stal ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:kzx2@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180306T102000Z
+DTEND:20180306T120000Z
+SUMMARY:ćwiczenia Programowanie systemów mobilnych
+LOCATION:Paw.A 122 lab. Win7\,Office2010
+ORGANIZER;CN="mgr Przemysław Płyś ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:z9yv@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180306T135000Z
+DTEND:20180306T152500Z
+SUMMARY:wykład do wyboru Techniki rozwiązywania problemów informatycznych
+LOCATION:Paw.D sala 3
+ORGANIZER;CN="prof. UEK Paweł Wołoszyn ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:7aj6@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180307T083500Z
+DTEND:20180307T101500Z
+SUMMARY:wykład Systemy zintegrowane
+LOCATION:Bibl. 442
+ORGANIZER;CN="prof.UEK dr hab. Piotr Soja ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:0pij@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180307T102000Z
+DTEND:20180307T120000Z
+SUMMARY:ćwiczenia Programowanie systemów rozproszonych
+LOCATION:Paw.A 014 lab. Win8\, Office16
+ORGANIZER;CN="mgr Przemysław Płyś ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:zau9@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180307T120500Z
+DTEND:20180307T134500Z
+SUMMARY:ćwiczenia Systemy zintegrowane
+LOCATION:Paw.A 013 lab. Vista\,Office10
+ORGANIZER;CN="prof.UEK dr hab. Piotr Soja ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:mx9o@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180307T153000Z
+DTEND:20180307T170500Z
+SUMMARY:wykład do wyboru Psychologia
+LOCATION:Paw.S sala 3
+ORGANIZER;CN="dr Mariusz Makowski ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:i7e3@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180308T171000Z
+DTEND:20180308T184500Z
+SUMMARY:wykład do wyboru System informacji marketingowej w przedsiębiorstw
+ ie
+LOCATION:Paw.B 151
+ORGANIZER;CN="dr Marek Rawski ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:02wl@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180309T065000Z
+DTEND:20180309T101500Z
+SUMMARY:wykład do wyboru Comarch Business Intelligence w praktyce zarządza
+ nia
+LOCATION:Paw.A 301a lab.win10 Office16
+ORGANIZER;CN="prof.UEK dr hab. Janusz Nesterak ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:7lcs@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180309T102000Z
+DTEND:20180309T134500Z
+SUMMARY:wykład do wyboru Comarch Business Intelligence w praktyce zarządza
+ nia
+LOCATION:Paw.A 301a lab.win10 Office16
+ORGANIZER;CN="prof.UEK dr hab. Janusz Nesterak ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:5epp@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180312T120500Z
+DTEND:20180312T134500Z
+SUMMARY:wykład Programowanie systemów mobilnych
+LOCATION:Bibl. 442
+ORGANIZER;CN="dr Janusz Stal ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:q3p4@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180312T135000Z
+DTEND:20180312T152500Z
+SUMMARY:wykład do wyboru Etykieta menedżera
+LOCATION:Paw.F 106
+ORGANIZER;CN="dr Anna Pietruszka-Ortyl ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:8u5b@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180312T153000Z
+DTEND:20180312T170500Z
+SUMMARY:wykład Programowanie systemów rozproszonych
+LOCATION:Paw.F 717
+ORGANIZER;CN="prof. UEK Paweł Wołoszyn ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:8g38@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180312T171000Z
+DTEND:20180312T184500Z
+SUMMARY:wykład do wyboru Programowanie aplikacji webowych SPA
+LOCATION:Bibl. 442
+ORGANIZER;CN="dr Janusz Stal ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:8w6i@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180313T102000Z
+DTEND:20180313T120000Z
+SUMMARY:ćwiczenia Programowanie systemów mobilnych
+LOCATION:Paw.A 122 lab. Win7\,Office2010
+ORGANIZER;CN="mgr Przemysław Płyś ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:7k4f@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180313T135000Z
+DTEND:20180313T152500Z
+SUMMARY:wykład do wyboru Techniki rozwiązywania problemów informatycznych
+LOCATION:Paw.D sala 3
+ORGANIZER;CN="prof. UEK Paweł Wołoszyn ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:btq0@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180314T083500Z
+DTEND:20180314T101500Z
+SUMMARY:wykład Systemy zintegrowane
+LOCATION:Bibl. 442
+ORGANIZER;CN="prof.UEK dr hab. Piotr Soja ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:5ga2@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180314T102000Z
+DTEND:20180314T120000Z
+SUMMARY:ćwiczenia Programowanie systemów rozproszonych
+LOCATION:Paw.A 014 lab. Win8\, Office16
+ORGANIZER;CN="mgr Przemysław Płyś ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:p43s@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180314T120500Z
+DTEND:20180314T134500Z
+SUMMARY:ćwiczenia Systemy zintegrowane
+LOCATION:Paw.A 013 lab. Vista\,Office10
+ORGANIZER;CN="prof.UEK dr hab. Piotr Soja ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:cmbr@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180314T153000Z
+DTEND:20180314T170500Z
+SUMMARY:wykład do wyboru Psychologia
+LOCATION:Paw.C sala B
+ORGANIZER;CN="dr Mariusz Makowski ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:fse3@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180315T171000Z
+DTEND:20180315T184500Z
+SUMMARY:wykład do wyboru System informacji marketingowej w przedsiębiorstw
+ ie
+LOCATION:Paw.B 151
+ORGANIZER;CN="dr Marek Rawski ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:rjrx@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180316T065000Z
+DTEND:20180316T101500Z
+SUMMARY:wykład do wyboru Comarch Business Intelligence w praktyce zarządza
+ nia
+LOCATION:Paw.A 301a lab.win10 Office16
+ORGANIZER;CN="prof.UEK dr hab. Janusz Nesterak ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:8ngs@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180316T102000Z
+DTEND:20180316T134500Z
+SUMMARY:wykład do wyboru Comarch Business Intelligence w praktyce zarządza
+ nia
+LOCATION:Paw.A 301a lab.win10 Office16
+ORGANIZER;CN="prof.UEK dr hab. Janusz Nesterak ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:0kaf@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180319T135000Z
+DTEND:20180319T152500Z
+SUMMARY:wykład do wyboru Etykieta menedżera
+LOCATION:Paw.F 106
+ORGANIZER;CN="dr Anna Pietruszka-Ortyl ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:gi42@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180319T153000Z
+DTEND:20180319T170500Z
+SUMMARY:wykład Programowanie systemów rozproszonych
+LOCATION:Paw.F 717
+ORGANIZER;CN="prof. UEK Paweł Wołoszyn ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:9hqa@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180319T171000Z
+DTEND:20180319T184500Z
+SUMMARY:wykład do wyboru Programowanie aplikacji webowych SPA
+LOCATION:Bibl. 442
+ORGANIZER;CN="dr Janusz Stal ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:mr9g@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180320T102000Z
+DTEND:20180320T120000Z
+SUMMARY:ćwiczenia Programowanie systemów mobilnych
+LOCATION:Paw.A 122 lab. Win7\,Office2010
+ORGANIZER;CN="mgr Przemysław Płyś ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:wr8j@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180320T135000Z
+DTEND:20180320T152500Z
+SUMMARY:wykład do wyboru Techniki rozwiązywania problemów informatycznych
+LOCATION:Paw.D sala 3
+ORGANIZER;CN="prof. UEK Paweł Wołoszyn ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:qff3@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180321T083500Z
+DTEND:20180321T101500Z
+SUMMARY:wykład Systemy zintegrowane
+LOCATION:Bibl. 442
+ORGANIZER;CN="prof.UEK dr hab. Piotr Soja ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:3lq5@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180321T102000Z
+DTEND:20180321T120000Z
+SUMMARY:ćwiczenia Programowanie systemów rozproszonych
+LOCATION:Paw.A 014 lab. Win8\, Office16
+ORGANIZER;CN="mgr Przemysław Płyś ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:xisl@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180321T120500Z
+DTEND:20180321T134500Z
+SUMMARY:ćwiczenia Systemy zintegrowane
+LOCATION:Paw.A 013 lab. Vista\,Office10
+ORGANIZER;CN="prof.UEK dr hab. Piotr Soja ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:28u5@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180321T153000Z
+DTEND:20180321T170500Z
+SUMMARY:wykład do wyboru Psychologia
+LOCATION:Paw.E sala G (KSB)
+ORGANIZER;CN="dr Mariusz Makowski ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:raw1@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180322T171000Z
+DTEND:20180322T184500Z
+SUMMARY:wykład do wyboru System informacji marketingowej w przedsiębiorstw
+ ie
+LOCATION:Paw.B 151
+ORGANIZER;CN="dr Marek Rawski ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:vwzg@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180323T065000Z
+DTEND:20180323T101500Z
+SUMMARY:wykład do wyboru Comarch Business Intelligence w praktyce zarządza
+ nia
+LOCATION:Paw.A 301a lab.win10 Office16
+ORGANIZER;CN="prof.UEK dr hab. Janusz Nesterak ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:dx80@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180323T102000Z
+DTEND:20180323T134500Z
+SUMMARY:wykład do wyboru Comarch Business Intelligence w praktyce zarządza
+ nia
+LOCATION:Paw.A 301a lab.win10 Office16
+ORGANIZER;CN="prof.UEK dr hab. Janusz Nesterak ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:8b7z@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180326T064500Z
+DTEND:20180326T110000Z
+SUMMARY:wykład do wyboru Comarch Business Intelligence w praktyce zarządza
+ nia
+ORGANIZER;CN="prof.UEK dr hab. Janusz Nesterak ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:ltkb@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180326T110500Z
+DTEND:20180326T124500Z
+SUMMARY:wykład Programowanie systemów mobilnych
+LOCATION:Bibl. 442
+ORGANIZER;CN="dr Janusz Stal ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:slse@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180326T125000Z
+DTEND:20180326T142500Z
+SUMMARY:wykład do wyboru Etykieta menedżera
+LOCATION:Paw.F 106
+ORGANIZER;CN="dr Anna Pietruszka-Ortyl ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:ji5f@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180326T143000Z
+DTEND:20180326T160500Z
+SUMMARY:wykład Programowanie systemów rozproszonych
+LOCATION:Paw.F 717
+ORGANIZER;CN="prof. UEK Paweł Wołoszyn ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:tlkm@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180326T161000Z
+DTEND:20180326T174500Z
+SUMMARY:wykład do wyboru Programowanie aplikacji webowych SPA
+LOCATION:Paw.A 115 lab. Win8\, Office16
+ORGANIZER;CN="dr Janusz Stal ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:bkhg@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180327T064500Z
+DTEND:20180327T110000Z
+SUMMARY:wykład do wyboru Comarch Business Intelligence w praktyce zarządza
+ nia
+ORGANIZER;CN="prof.UEK dr hab. Janusz Nesterak ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:m2yt@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180327T092000Z
+DTEND:20180327T110000Z
+SUMMARY:ćwiczenia Programowanie systemów mobilnych
+LOCATION:Paw.A 122 lab. Win7\,Office2010
+ORGANIZER;CN="mgr Przemysław Płyś ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:ykne@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180327T125000Z
+DTEND:20180327T142500Z
+SUMMARY:wykład do wyboru Techniki rozwiązywania problemów informatycznych
+LOCATION:Paw.D sala 3
+ORGANIZER;CN="prof. UEK Paweł Wołoszyn ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:zdp6@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180328T073500Z
+DTEND:20180328T091500Z
+SUMMARY:wykład Systemy zintegrowane
+LOCATION:Bibl. 442
+ORGANIZER;CN="prof.UEK dr hab. Piotr Soja ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:00th@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180328T092000Z
+DTEND:20180328T110000Z
+SUMMARY:ćwiczenia Programowanie systemów rozproszonych
+LOCATION:Paw.A 014 lab. Win8\, Office16
+ORGANIZER;CN="mgr Przemysław Płyś ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:lob7@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180328T110500Z
+DTEND:20180328T124500Z
+SUMMARY:ćwiczenia Systemy zintegrowane
+LOCATION:Paw.A 013 lab. Vista\,Office10
+ORGANIZER;CN="prof.UEK dr hab. Piotr Soja ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:e2sf@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180328T143000Z
+DTEND:20180328T160500Z
+SUMMARY:wykład do wyboru Psychologia
+LOCATION:Paw.E sala H (KSB)
+ORGANIZER;CN="dr Mariusz Makowski ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:7g5x@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180404T073500Z
+DTEND:20180404T091500Z
+SUMMARY:wykład Systemy zintegrowane
+LOCATION:Bibl. 442
+ORGANIZER;CN="prof.UEK dr hab. Piotr Soja ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:c1ld@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180404T092000Z
+DTEND:20180404T110000Z
+SUMMARY:ćwiczenia Programowanie systemów rozproszonych
+LOCATION:Paw.A 014 lab. Win8\, Office16
+ORGANIZER;CN="mgr Przemysław Płyś ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:fi9f@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180404T110500Z
+DTEND:20180404T124500Z
+SUMMARY:ćwiczenia Systemy zintegrowane
+LOCATION:Paw.A 013 lab. Vista\,Office10
+ORGANIZER;CN="prof.UEK dr hab. Piotr Soja ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:iy1q@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180404T143000Z
+DTEND:20180404T160500Z
+SUMMARY:wykład do wyboru Psychologia
+LOCATION:Paw.C sala C
+ORGANIZER;CN="dr Mariusz Makowski ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:j3x9@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180405T161000Z
+DTEND:20180405T174500Z
+SUMMARY:wykład do wyboru System informacji marketingowej w przedsiębiorstw
+ ie
+LOCATION:Paw.B 151
+ORGANIZER;CN="dr Marek Rawski ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:zgpw@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180406T073500Z
+DTEND:20180406T091500Z
+SUMMARY:wykład BHP i ergonomia
+LOCATION:Bibl. 441
+ORGANIZER;CN="dr Bernard Bińczycki ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:6rw7@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180406T092000Z
+DTEND:20180406T110000Z
+SUMMARY:wykład BHP i ergonomia
+LOCATION:Bibl. 442
+ORGANIZER;CN="dr Bernard Bińczycki ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:zot1@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180406T110500Z
+DTEND:20180406T133500Z
+SUMMARY:wykład Administrowanie systemami komputerowymi
+LOCATION:Paw.C sala B
+ORGANIZER;CN="prof.UEK dr hab. Dariusz Put ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:bakm@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180409T073500Z
+DTEND:20180409T091500Z
+SUMMARY:wykład do wyboru Etykieta menedżera
+LOCATION:Paw.B 451
+ORGANIZER;CN="dr Anna Pietruszka-Ortyl ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:mepb@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180409T110500Z
+DTEND:20180409T124500Z
+SUMMARY:wykład Programowanie systemów mobilnych
+LOCATION:Bibl. 442
+ORGANIZER;CN="dr Janusz Stal ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:dyja@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180409T125000Z
+DTEND:20180409T142500Z
+SUMMARY:wykład do wyboru Etykieta menedżera
+LOCATION:Paw.F 106
+ORGANIZER;CN="dr Anna Pietruszka-Ortyl ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:kaxi@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180409T143000Z
+DTEND:20180409T160500Z
+SUMMARY:wykład Programowanie systemów rozproszonych
+LOCATION:Paw.F 717
+ORGANIZER;CN="prof. UEK Paweł Wołoszyn ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:w7jo@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180409T161000Z
+DTEND:20180409T174500Z
+SUMMARY:wykład do wyboru Programowanie aplikacji webowych SPA
+LOCATION:Paw.A 115 lab. Win8\, Office16
+ORGANIZER;CN="dr Janusz Stal ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:hm05@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180410T092000Z
+DTEND:20180410T110000Z
+SUMMARY:ćwiczenia Programowanie systemów mobilnych
+LOCATION:Paw.A 122 lab. Win7\,Office2010
+ORGANIZER;CN="mgr Przemysław Płyś ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:k6q1@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180410T125000Z
+DTEND:20180410T142500Z
+SUMMARY:wykład do wyboru Techniki rozwiązywania problemów informatycznych
+LOCATION:Paw.D sala 3
+ORGANIZER;CN="prof. UEK Paweł Wołoszyn ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:of6d@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180411T073500Z
+DTEND:20180411T082000Z
+SUMMARY:wykład Systemy zintegrowane
+LOCATION:Bibl. 442
+ORGANIZER;CN="prof.UEK dr hab. Piotr Soja ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:4cr1@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180411T092000Z
+DTEND:20180411T110000Z
+SUMMARY:ćwiczenia Programowanie systemów rozproszonych
+LOCATION:Paw.A 014 lab. Win8\, Office16
+ORGANIZER;CN="mgr Przemysław Płyś ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:utjg@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180411T110500Z
+DTEND:20180411T124500Z
+SUMMARY:ćwiczenia Systemy zintegrowane
+LOCATION:Paw.A 013 lab. Vista\,Office10
+ORGANIZER;CN="prof.UEK dr hab. Piotr Soja ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:5po0@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180411T143000Z
+DTEND:20180411T160500Z
+SUMMARY:wykład do wyboru Psychologia
+LOCATION:Paw.E sala H (KSB)
+ORGANIZER;CN="dr Mariusz Makowski ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:0oyy@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180412T161000Z
+DTEND:20180412T174500Z
+SUMMARY:wykład do wyboru System informacji marketingowej w przedsiębiorstw
+ ie
+LOCATION:Paw.B 151
+ORGANIZER;CN="dr Marek Rawski ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:uorr@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180413T073500Z
+DTEND:20180413T091500Z
+SUMMARY:wykład BHP i ergonomia
+LOCATION:Bibl. 441
+ORGANIZER;CN="dr Bernard Bińczycki ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:8y3l@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180413T092000Z
+DTEND:20180413T110000Z
+SUMMARY:wykład BHP i ergonomia
+LOCATION:Bibl. 442
+ORGANIZER;CN="dr Bernard Bińczycki ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:latp@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180413T120000Z
+DTEND:20180413T133500Z
+SUMMARY:ćwiczenia Administrowanie systemami komputerowymi
+LOCATION:Paw.A 014 lab. Win8\, Office16
+ORGANIZER;CN="mgr Jakub Kanclerz ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:2zh4@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180416T125000Z
+DTEND:20180416T142500Z
+SUMMARY:wykład do wyboru Etykieta menedżera
+LOCATION:Paw.F 106
+ORGANIZER;CN="dr Anna Pietruszka-Ortyl ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:4z5c@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180416T143000Z
+DTEND:20180416T151500Z
+SUMMARY:wykład Programowanie systemów rozproszonych
+LOCATION:Paw.F 717
+ORGANIZER;CN="prof. UEK Paweł Wołoszyn ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:c2l7@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180416T161000Z
+DTEND:20180416T174500Z
+SUMMARY:wykład do wyboru Programowanie aplikacji webowych SPA
+LOCATION:Paw.A 115 lab. Win8\, Office16
+ORGANIZER;CN="dr Janusz Stal ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:yq8i@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180417T092000Z
+DTEND:20180417T110000Z
+SUMMARY:ćwiczenia Programowanie systemów mobilnych
+LOCATION:Paw.A 122 lab. Win7\,Office2010
+ORGANIZER;CN="mgr Przemysław Płyś ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:gg1o@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180417T125000Z
+DTEND:20180417T142500Z
+SUMMARY:wykład do wyboru Techniki rozwiązywania problemów informatycznych
+LOCATION:Paw.D sala 3
+ORGANIZER;CN="prof. UEK Paweł Wołoszyn ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:jz0f@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180418T092000Z
+DTEND:20180418T110000Z
+SUMMARY:ćwiczenia Programowanie systemów rozproszonych
+LOCATION:Paw.A 014 lab. Win8\, Office16
+ORGANIZER;CN="mgr Przemysław Płyś ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:usp9@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180418T110500Z
+DTEND:20180418T124500Z
+SUMMARY:ćwiczenia Systemy zintegrowane
+LOCATION:Paw.A 013 lab. Vista\,Office10
+ORGANIZER;CN="prof.UEK dr hab. Piotr Soja ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:36uz@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180418T143000Z
+DTEND:20180418T160500Z
+SUMMARY:wykład do wyboru Psychologia
+LOCATION:Paw.A 013 lab. Vista\,Office10\, Paw.A 118 lab. Vista\,Office10
+ORGANIZER;CN="dr Mariusz Makowski ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:79re@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180419T125000Z
+DTEND:20180419T142500Z
+SUMMARY:ćwiczenia Administrowanie systemami komputerowymi
+LOCATION:Paw.A 014 lab. Win8\, Office16
+ORGANIZER;CN="mgr Jakub Kanclerz ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:dl5k@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180419T161000Z
+DTEND:20180419T174500Z
+SUMMARY:wykład do wyboru System informacji marketingowej w przedsiębiorstw
+ ie
+LOCATION:Paw.B 151
+ORGANIZER;CN="dr Marek Rawski ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:gvkc@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180420T073500Z
+DTEND:20180420T091500Z
+SUMMARY:wykład BHP i ergonomia
+LOCATION:Bibl. 441
+ORGANIZER;CN="dr Bernard Bińczycki ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:amc6@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180420T092000Z
+DTEND:20180420T110000Z
+SUMMARY:wykład BHP i ergonomia
+LOCATION:Bibl. 442
+ORGANIZER;CN="dr Bernard Bińczycki ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:vrz2@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180421T064500Z
+DTEND:20180421T091500Z
+SUMMARY:wykład Administrowanie systemami komputerowymi
+LOCATION:Paw.G  7
+ORGANIZER;CN="prof.UEK dr hab. Dariusz Put ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:ahba@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180423T110500Z
+DTEND:20180423T124500Z
+SUMMARY:wykład Programowanie systemów mobilnych
+LOCATION:Bibl. 442
+ORGANIZER;CN="dr Janusz Stal ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:luvn@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180423T125000Z
+DTEND:20180423T142500Z
+SUMMARY:wykład do wyboru Etykieta menedżera
+LOCATION:Paw.F 106
+ORGANIZER;CN="dr Anna Pietruszka-Ortyl ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:qhdy@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180423T161000Z
+DTEND:20180423T174500Z
+SUMMARY:wykład do wyboru Programowanie aplikacji webowych SPA
+LOCATION:Paw.A 115 lab. Win8\, Office16
+ORGANIZER;CN="dr Janusz Stal ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:hyly@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180424T092000Z
+DTEND:20180424T110000Z
+SUMMARY:ćwiczenia Programowanie systemów mobilnych
+LOCATION:Paw.A 122 lab. Win7\,Office2010
+ORGANIZER;CN="mgr Przemysław Płyś ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:loma@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180424T125000Z
+DTEND:20180424T142500Z
+SUMMARY:wykład do wyboru Techniki rozwiązywania problemów informatycznych
+LOCATION:Paw.D sala 3
+ORGANIZER;CN="prof. UEK Paweł Wołoszyn ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:72q0@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180425T092000Z
+DTEND:20180425T110000Z
+SUMMARY:ćwiczenia Programowanie systemów rozproszonych
+LOCATION:Paw.A 014 lab. Win8\, Office16
+ORGANIZER;CN="mgr Przemysław Płyś ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:igj5@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180425T110500Z
+DTEND:20180425T124500Z
+SUMMARY:ćwiczenia Systemy zintegrowane
+LOCATION:Paw.A 013 lab. Vista\,Office10
+ORGANIZER;CN="prof.UEK dr hab. Piotr Soja ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:dnhi@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180425T143000Z
+DTEND:20180425T160500Z
+SUMMARY:wykład do wyboru Psychologia
+LOCATION:Paw.A 301b
+ORGANIZER;CN="dr Mariusz Makowski ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:f5uq@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180425T161000Z
+DTEND:20180425T183500Z
+SUMMARY:ćwiczenia Administrowanie systemami komputerowymi
+LOCATION:Paw.A 014 lab. Win8\, Office16
+ORGANIZER;CN="mgr Jakub Kanclerz ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:12h3@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180426T125000Z
+DTEND:20180426T142500Z
+SUMMARY:ćwiczenia Administrowanie systemami komputerowymi
+LOCATION:Paw.A 014 lab. Win8\, Office16
+ORGANIZER;CN="mgr Jakub Kanclerz ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:hqpl@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180426T161000Z
+DTEND:20180426T174500Z
+SUMMARY:wykład do wyboru System informacji marketingowej w przedsiębiorstw
+ ie
+LOCATION:Paw.B 151
+ORGANIZER;CN="dr Marek Rawski ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:67f9@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180427T083000Z
+DTEND:20180427T091500Z
+SUMMARY:wykład BHP i ergonomia
+LOCATION:Bibl. 441
+ORGANIZER;CN="dr Bernard Bińczycki ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:svrl@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180427T092000Z
+DTEND:20180427T110000Z
+SUMMARY:wykład BHP i ergonomia
+LOCATION:Bibl. 442
+ORGANIZER;CN="dr Bernard Bińczycki ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:m2ip@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180427T134000Z
+DTEND:20180427T160500Z
+SUMMARY:Przeniesienie zajęć Administrowanie systemami komputerowymi
+ORGANIZER;CN="undefined ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:gca0@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180507T110500Z
+DTEND:20180507T124500Z
+SUMMARY:wykład Programowanie systemów mobilnych
+LOCATION:Bibl. 442
+ORGANIZER;CN="dr Janusz Stal ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:baw5@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180507T125000Z
+DTEND:20180507T142500Z
+SUMMARY:wykład do wyboru Etykieta menedżera
+LOCATION:Paw.F 106
+ORGANIZER;CN="dr Anna Pietruszka-Ortyl ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:lglx@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180507T161000Z
+DTEND:20180507T174500Z
+SUMMARY:wykład do wyboru Programowanie aplikacji webowych SPA
+LOCATION:Paw.A 115 lab. Win8\, Office16
+ORGANIZER;CN="dr Janusz Stal ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:rwqo@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180508T092000Z
+DTEND:20180508T110000Z
+SUMMARY:ćwiczenia Programowanie systemów mobilnych
+LOCATION:Paw.A 122 lab. Win7\,Office2010
+ORGANIZER;CN="mgr Przemysław Płyś ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:x0zg@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180508T125000Z
+DTEND:20180508T142500Z
+SUMMARY:wykład do wyboru Techniki rozwiązywania problemów informatycznych
+LOCATION:Paw.D sala 3
+ORGANIZER;CN="prof. UEK Paweł Wołoszyn ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:457v@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180509T143000Z
+DTEND:20180509T160500Z
+SUMMARY:wykład do wyboru Psychologia
+LOCATION:Paw.C sala C
+ORGANIZER;CN="dr Mariusz Makowski ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:kaho@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180510T161000Z
+DTEND:20180510T174500Z
+SUMMARY:wykład do wyboru System informacji marketingowej w przedsiębiorstw
+ ie
+LOCATION:Paw.B 151
+ORGANIZER;CN="dr Marek Rawski ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:1hrs@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180514T161000Z
+DTEND:20180514T174500Z
+SUMMARY:wykład do wyboru Programowanie aplikacji webowych SPA
+LOCATION:Paw.A 115 lab. Win8\, Office16
+ORGANIZER;CN="dr Janusz Stal ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:z77t@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180515T125000Z
+DTEND:20180515T142500Z
+SUMMARY:wykład do wyboru Techniki rozwiązywania problemów informatycznych
+LOCATION:Paw.D sala 3
+ORGANIZER;CN="prof. UEK Paweł Wołoszyn ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:2cj1@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180515T143000Z
+DTEND:20180515T160500Z
+SUMMARY:egzamin undefined
+LOCATION:Paw.A 301a lab.win10 Office16
+ORGANIZER;CN="prof.UEK dr hab. Piotr Soja ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:058r@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180516T143000Z
+DTEND:20180516T160500Z
+SUMMARY:wykład do wyboru Psychologia
+LOCATION:Paw.G  3
+ORGANIZER;CN="dr Mariusz Makowski ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:b36t@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180516T161000Z
+DTEND:20180516T174500Z
+SUMMARY:ćwiczenia Administrowanie systemami komputerowymi
+LOCATION:Paw.A 014 lab. Win8\, Office16
+ORGANIZER;CN="mgr Jakub Kanclerz ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:a9xm@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180517T161000Z
+DTEND:20180517T174500Z
+SUMMARY:wykład do wyboru System informacji marketingowej w przedsiębiorstw
+ ie
+LOCATION:Paw.B 151
+ORGANIZER;CN="dr Marek Rawski ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:6p0g@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180521T110500Z
+DTEND:20180521T124500Z
+SUMMARY:wykład Programowanie systemów mobilnych
+LOCATION:Bibl. 442
+ORGANIZER;CN="dr Janusz Stal ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:3443@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180521T125000Z
+DTEND:20180521T142500Z
+SUMMARY:wykład do wyboru Etykieta menedżera
+LOCATION:Paw.F 106
+ORGANIZER;CN="dr Anna Pietruszka-Ortyl ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:smio@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180521T161000Z
+DTEND:20180521T174500Z
+SUMMARY:wykład do wyboru Programowanie aplikacji webowych SPA
+LOCATION:Paw.A 115 lab. Win8\, Office16
+ORGANIZER;CN="dr Janusz Stal ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:cxhs@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180522T125000Z
+DTEND:20180522T142500Z
+SUMMARY:wykład do wyboru Techniki rozwiązywania problemów informatycznych
+LOCATION:Paw.D sala 3
+ORGANIZER;CN="prof. UEK Paweł Wołoszyn ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:pylv@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180523T143000Z
+DTEND:20180523T151500Z
+SUMMARY:wykład do wyboru Psychologia
+LOCATION:Paw.C sala E
+ORGANIZER;CN="dr Mariusz Makowski ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:tdp8@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180523T152000Z
+DTEND:20180523T160500Z
+SUMMARY:rezerwacja Psychologia
+LOCATION:Paw.C sala E
+ORGANIZER;CN="dr Mariusz Makowski ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:letp@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180523T161000Z
+DTEND:20180523T174500Z
+SUMMARY:ćwiczenia Administrowanie systemami komputerowymi
+LOCATION:Paw.A 014 lab. Win8\, Office16
+ORGANIZER;CN="mgr Jakub Kanclerz ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:ywa5@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180524T161000Z
+DTEND:20180524T174500Z
+SUMMARY:wykład do wyboru System informacji marketingowej w przedsiębiorstw
+ ie
+LOCATION:Paw.B 151
+ORGANIZER;CN="dr Marek Rawski ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:i3dt@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180525T170000Z
+DTEND:20180525T183500Z
+SUMMARY:wykład Administrowanie systemami komputerowymi
+LOCATION:Paw.C sala F
+ORGANIZER;CN="prof.UEK dr hab. Dariusz Put ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:fucx@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180528T125000Z
+DTEND:20180528T133500Z
+SUMMARY:wykład do wyboru Etykieta menedżera
+LOCATION:Paw.F 106
+ORGANIZER;CN="dr Anna Pietruszka-Ortyl ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:q5mi@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180528T143000Z
+DTEND:20180528T160500Z
+SUMMARY:ćwiczenia Administrowanie systemami komputerowymi
+LOCATION:Paw.A 115 lab. Win8\, Office16
+ORGANIZER;CN="mgr Jakub Kanclerz ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:dlb6@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180528T161000Z
+DTEND:20180528T174500Z
+SUMMARY:wykład do wyboru Programowanie aplikacji webowych SPA
+LOCATION:Paw.A 115 lab. Win8\, Office16
+ORGANIZER;CN="dr Janusz Stal ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:eqlm@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180529T125000Z
+DTEND:20180529T133500Z
+SUMMARY:wykład do wyboru Techniki rozwiązywania problemów informatycznych
+LOCATION:Paw.D sala 3
+ORGANIZER;CN="prof. UEK Paweł Wołoszyn ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:p2bp@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180604T110500Z
+DTEND:20180604T115000Z
+SUMMARY:wykład Programowanie systemów mobilnych
+LOCATION:Bibl. 442
+ORGANIZER;CN="dr Janusz Stal ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:4o43@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180607T161000Z
+DTEND:20180607T165500Z
+SUMMARY:wykład do wyboru System informacji marketingowej w przedsiębiorstw
+ ie
+LOCATION:Paw.B 151
+ORGANIZER;CN="dr Marek Rawski ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:tq3x@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180614T125000Z
+DTEND:20180614T133500Z
+SUMMARY:wykład Administrowanie systemami komputerowymi
+LOCATION:Bibl. 442
+ORGANIZER;CN="prof.UEK dr hab. Dariusz Put ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+BEGIN:VEVENT
+UID:hvve@plan-zajec
+SEQUENCE:0
+DTSTAMP:20190128T214105Z
+DTSTART:20180614T134000Z
+DTEND:20180614T142500Z
+SUMMARY:wykład Administrowanie systemami komputerowymi
+LOCATION:Bibl. 442
+ORGANIZER;CN="prof.UEK dr hab. Dariusz Put ":mailto: 
+URL;VALUE=URI:http://planzajec.uek.krakow.pl/index.php?typ=G&okres=2&id=11
+ 6071&xml
+END:VEVENT
+END:VCALENDAR

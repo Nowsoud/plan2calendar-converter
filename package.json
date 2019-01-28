@@ -1,0 +1,17 @@
+{
+  "name": "converter",
+  "version": "1.0.0",
+  "description": "converts xml to json to xm",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "ical-generator": "^1.4.4",
+    "request": "^2.88.0",
+    "xml-js": "^1.6.9"
+  }
+}
