@@ -9,7 +9,7 @@
   "author": "K.Latest ",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "ical-generator": "^1.4.4",
     "request": "^2.88.0",
     "xml-js": "^1.6.9"
